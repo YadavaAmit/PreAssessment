@@ -126,7 +126,7 @@ $response='<section id="serviceSection" class="cources_highlight tab-pane fade i
         <div class="row">
             <div class="col-12 col-sm-12 col-md-12 col-lg-12">
         <hr/>
-        <div class="col-3 col-sm-3 col-md-3 col-lg-3" style="padding-left: 0px;padding-right: 0px;"> <!-- required for floating -->
+        <div class="col-12 col-sm-12 col-md-3 col-lg-3" style="padding-left: 0px;padding-right: 0px;"> <!-- required for floating -->
           <!-- Nav tabs -->
           <ul class="nav nav-tabs tabs-left sideways">
             <li class="schemeTab active"><a href="#budgetGlance" data-toggle="tab"> Budget At a Glance</a></li>
@@ -140,7 +140,7 @@ $response='<section id="serviceSection" class="cources_highlight tab-pane fade i
           </ul>
         </div>
 
-        <div class="col-9 col-sm-9 col-md-9 col-lg-9"  style="padding-right: 0px;">
+        <div class="col-12 col-sm-12 col-md-9 col-lg-9"  style="padding-right: 0px;">
           <!-- Tab panes -->
           <div class="tab-content">
 			<div class="tab-pane fade active show in" id="budgetGlance" role="tabpanel" aria-labelledby="GLANCE">
@@ -420,7 +420,7 @@ $response='<section id="serviceSection" class="cources_highlight tab-pane fade i
         <div class="row">
             <div class="col-12 col-sm-12 col-md-12 col-lg-12">
         <hr/>
-        <div class="col-3 col-sm-3 col-md-3 col-lg-3" style="padding-left: 0px;padding-right: 0px;"> <!-- required for floating -->
+        <div class="col-12 col-sm-12 col-md-3 col-lg-3" style="padding-left: 0px;padding-right: 0px;"> <!-- required for floating -->
           <!-- Nav tabs -->
           <ul class="nav nav-tabs tabs-left sideways">
             <li class="schemeTab active"><a href="#budgetGlance" data-toggle="tab">Autonomous Bodies At a Glance</a></li>
@@ -435,7 +435,7 @@ $response='<section id="serviceSection" class="cources_highlight tab-pane fade i
           </ul>
         </div>
 
-        <div class="col-9 col-sm-9 col-md-9 col-lg-9"  style="padding-right: 0px;">
+        <div class="col-12 col-sm-12 col-md-9 col-lg-9"  style="padding-right: 0px;">
           <!-- Tab panes -->
           <div class="tab-content">
 			<div class="tab-pane fade active show in" id="budgetGlance" role="tabpanel" aria-labelledby="GLANCE">
